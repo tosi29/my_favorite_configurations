@@ -51,6 +51,8 @@
              value="LITERAL_DO, LITERAL_ELSE, LITERAL_FOR, LITERAL_IF, LITERAL_WHILE"/>
         </module>
 	
+        <module name="MethodLength"/>
+	
 	<!-- Checks for imports -->
 	<!-- https://checkstyle.org/config_imports.html -->
         <module name="AvoidStarImport"/>
